@@ -36,3 +36,8 @@ let analisaString = (str) => {
 }
 
 console.log(analisaString("aaabbeelli"))
+console.log("---------------")
+
+const x = [1,2,3,4,5,6]
+let y = x.find(2);
+console.log(y)
